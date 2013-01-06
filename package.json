@@ -1,0 +1,10 @@
+{
+	"name": "Backbone.JackLinks",
+	"version": "0.1.0",
+	"description": "a link hijacker & route helper for Backbone apps",
+	"devDependencies": {
+		"jasmine": "*",
+		"phantomjs": "*"
+	},
+	"license": "MIT"
+}
