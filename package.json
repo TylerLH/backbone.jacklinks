@@ -2,8 +2,10 @@
 	"name": "Backbone.JackLinks",
 	"version": "0.1.0",
 	"description": "a link hijacker & route helper for Backbone apps",
+	"scripts": {
+		"preinstall": "npm install -g jasmine-node"
+	},
 	"devDependencies": {
-		"jasmine": "*",
 		"phantomjs": "*"
 	},
 	"license": "MIT"
